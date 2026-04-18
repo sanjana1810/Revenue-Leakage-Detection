@@ -1,0 +1,51 @@
+product_id,medicine_name,category,mrp,cost_price
+1,Medicine_1,Vitamin,387,221.47
+2,Medicine_2,Antibiotic,185,110.01
+3,Medicine_3,Skin Care,406,283.44
+4,Medicine_4,Antibiotic,104,69.48
+5,Medicine_5,Painkiller,75,42.66
+6,Medicine_6,Skin Care,318,213.19
+7,Medicine_7,Skin Care,161,111.61
+8,Medicine_8,Skin Care,274,162.78
+9,Medicine_9,Antibiotic,202,143.8
+10,Medicine_10,Syrup,448,318.6
+11,Medicine_11,Painkiller,234,141.7
+12,Medicine_12,Antibiotic,450,277.79
+13,Medicine_13,Vitamin,254,144.61
+14,Medicine_14,Antibiotic,369,222.47
+15,Medicine_15,Antibiotic,433,277.94
+16,Medicine_16,Vitamin,253,143.14
+17,Medicine_17,Vitamin,484,327.05
+18,Medicine_18,Antibiotic,355,208.9
+19,Medicine_19,Vitamin,83,56.63
+20,Medicine_20,Antibiotic,100,72.11
+21,Medicine_21,Vitamin,254,153.82
+22,Medicine_22,Painkiller,143,89.24
+23,Medicine_23,Antibiotic,403,243.17
+24,Medicine_24,Skin Care,371,251.17
+25,Medicine_25,Syrup,433,259.35
+26,Medicine_26,Skin Care,254,153.41
+27,Medicine_27,Antibiotic,172,118.15
+28,Medicine_28,Vitamin,177,126.44
+29,Medicine_29,Painkiller,265,159.94
+30,Medicine_30,Vitamin,350,253.85
+31,Medicine_31,Syrup,168,114.42
+32,Medicine_32,Vitamin,389,249.65
+33,Medicine_33,Skin Care,131,78.51
+34,Medicine_34,Skin Care,335,201.85
+35,Medicine_35,Syrup,279,203.55
+36,Medicine_36,Painkiller,245,145.5
+37,Medicine_37,Antibiotic,320,207.59
+38,Medicine_38,Painkiller,500,285.96
+39,Medicine_39,Skin Care,465,319.03
+40,Medicine_40,Skin Care,92,57.68
+41,Medicine_41,Skin Care,299,196.09
+42,Medicine_42,Antibiotic,500,369.24
+43,Medicine_43,Vitamin,409,297.33
+44,Medicine_44,Antibiotic,453,307.22
+45,Medicine_45,Syrup,210,133.76
+46,Medicine_46,Vitamin,61,45.19
+47,Medicine_47,Skin Care,316,221.96
+48,Medicine_48,Vitamin,114,82.55
+49,Medicine_49,Skin Care,490,332.12
+50,Medicine_50,Painkiller,161,93.47
